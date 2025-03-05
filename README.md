@@ -1,3 +1,12 @@
+# Fixes and Features
+## Screenshots
+
+![panel](./images/panel.png)
+
+![dialog](./images/dialog.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
