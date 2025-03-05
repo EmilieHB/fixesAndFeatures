@@ -1,0 +1,27 @@
+.ItemCard {
+    border: 1px solid grey;
+    border-radius: 1rem;
+    background-color: snow;
+    padding: 1rem;
+    width: 20rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.CardSection {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 1rem;
+}
+
+.Type {
+    text-align: right;
+}
+
+.TextField {
+    max-width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

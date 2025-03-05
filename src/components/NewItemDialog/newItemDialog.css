@@ -1,0 +1,6 @@
+.DialogContentWrapper {
+    height: fit-content;
+    max-height: 50vh;
+    width: fit-content;
+    overflow-y: auto;
+}

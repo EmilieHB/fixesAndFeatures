@@ -1,0 +1,14 @@
+.App {
+  background-color: darkcyan;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  gap: 2rem;
+}
+
+.AppHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
